@@ -1,0 +1,31 @@
+Tense: Present Perfect
+
+Usage:
+1. To describe actions that happened at an unspecified time in the past but are relevant to the present.
+   Example: I have lost my keys. (I still don't have them)
+
+2. To describe experiences.
+   Example: She has visited Paris three times.
+
+3. To describe recent actions with a result in the present.
+   Example: He has just finished his homework.
+
+4. To describe actions that started in the past and continue to the present (often with “for” or “since”).
+   Example: We have lived here for five years.
+
+Form:
+- Affirmative: Subject + have/has + past participle
+  Example: I have seen that movie. / She has finished her work.
+
+- Negative: Subject + have/has not + past participle
+  Example: They haven’t arrived yet. / He hasn’t called me.
+
+- Interrogative: Have/Has + subject + past participle?
+  Example: Have you eaten? / Has she met him?
+
+Past Participle:
+- Regular verbs: verb + -ed (worked, played)
+- Irregular verbs: unique forms (gone, done, been, eaten, etc.)
+
+Time Expressions:
+- already, yet, just, ever, never, recently, so far, since, for

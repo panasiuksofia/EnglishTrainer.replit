@@ -1,0 +1,30 @@
+Tense: Present Simple
+
+Usage:
+1. To express habits and routines.
+   Example: She goes to school every day.
+2. To express general truths and facts.
+   Example: The sun rises in the east.
+3. To express fixed arrangements or timetables.
+   Example: The train leaves at 6 p.m.
+
+Form:
+- Affirmative: Subject + base verb (+s/es for he/she/it)
+  Example: He plays football.
+
+- Negative: Subject + do/does not + base verb
+  Example: They do not like coffee.
+           She does not work here.
+
+- Interrogative: Do/Does + subject + base verb?
+  Example: Do you speak English?
+           Does he live in London?
+
+Spelling Rules for -s/-es:
+- Add -es to verbs ending in -ch, -sh, -ss, -x, -o.
+  Example: watch → watches, go → goes
+- Change -y to -ies if there is a consonant before y.
+  Example: study → studies
+
+Time Expressions:
+- always, usually, often, sometimes, never, every day/week, on Mondays

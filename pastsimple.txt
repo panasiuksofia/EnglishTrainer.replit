@@ -1,0 +1,39 @@
+Tense: Past Simple
+
+Usage:
+1. To describe completed actions in the past.
+   Example: I visited London last year.
+
+2. To describe a series of past events.
+   Example: She woke up, got dressed, and left the house.
+
+3. To describe past habits or routines (with no longer true implication).
+   Example: He always walked to school.
+
+Form:
+- Affirmative: Subject + verb (past form)
+  Example: I watched a movie. / They played football.
+
+- Negative: Subject + did not (didn’t) + base verb
+  Example: She didn’t like the food. / We didn’t go there.
+
+- Interrogative: Did + subject + base verb?
+  Example: Did you see the film? / Did he call you?
+
+Regular Verbs:
+- Add -ed to the base verb.
+  Example: work → worked, play → played
+
+Spelling Rules:
+- For verbs ending in -e, add -d.
+  Example: love → loved
+
+- For verbs ending in a consonant + y, change -y to -i and add -ed.
+  Example: carry → carried
+
+Irregular Verbs:
+- These do not follow standard rules. Examples:
+  go → went, eat → ate, have → had, see → saw
+
+Time Expressions:
+- yesterday, last (night/week/month/year), in (2000/June), ago, when

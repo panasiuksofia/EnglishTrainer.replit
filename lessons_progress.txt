@@ -1,0 +1,16 @@
+[Lesson]
+Title=Present Simple
+Score=2/3
+Percentage=66.7
+TimeSpent=48
+PointsEarned=9
+Completed=true
+
+[Lesson]
+Title=Present Simple
+Score=2/3
+Percentage=66.7
+TimeSpent=256
+PointsEarned=9
+Completed=true
+
